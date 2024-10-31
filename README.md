@@ -1,12 +1,4 @@
 
----
-subcategory: "S3 (Simple Storage)"
-layout: "aws"
-page_title: "AWS: aws_s3_bucket"
-description: |-
-  Provides a S3 bucket resource.
----
-
 # Resource: aws_s3_bucket
 
 Provides a S3 bucket resource.
