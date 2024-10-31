@@ -233,6 +233,21 @@ The `replication_time` configuration block supports the following arguments:
 * `status` - (Optional) Status of RTC. Either `Enabled` or `Disabled`.
 * `minutes` - (Optional) Threshold within which objects are to be replicated. The only valid value is `15`.
 
+
+
+# Heading level 1
+
+## Heading level 2
+
+### Heading level 3
+
+#### Heading level 4
+
+##### Heading level 5
+
+###### Heading level 6
+
+
 #### Metrics
 
 The `metrics` configuration block supports the following arguments:
@@ -332,9 +347,3 @@ Using `terraform import`, import S3 bucket using the `bucket`. For example:
 % terraform import aws_s3_bucket.bucket bucket-name
 ```
 
-# Heading level 1
-## Heading level 2
-### Heading level 3
-#### Heading level 4
-##### Heading level 5
-###### Heading level 6
